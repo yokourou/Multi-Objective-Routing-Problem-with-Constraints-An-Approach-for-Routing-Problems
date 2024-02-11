@@ -18,7 +18,7 @@ The fundamental objective of this project is to define optimal routing paths to 
 
 These concurrent objectives will require a systematic approach and the application of linear models to achieve optimal or efficient solutions, according to the operational needs of the network operator.
 <div style="text-align:center;">
-    <img src="reseau.png" alt="reseau_graphe" width="180", height ="100"/>
+    <img src="reseau.png" alt="reseau_graphe" width="200", height ="200"/>
 </div>
 
 ## Linear Models (Continued)
