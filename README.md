@@ -20,6 +20,7 @@ These concurrent objectives will require a systematic approach and the applicati
 <div style="text-align:center;">
     <img src="reseau.png" alt="reseau_graphe" width="100"/>
 </div>
+
 ## Linear Models (Continued)
 
 ### Objective 1: Routing Cost
