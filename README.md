@@ -17,7 +17,9 @@ The fundamental objective of this project is to define optimal routing paths to 
 3. **Average Arc Utilization:** Ensure balanced average utilization of arcs to improve service quality.
 
 These concurrent objectives will require a systematic approach and the application of linear models to achieve optimal or efficient solutions, according to the operational needs of the network operator.
-
+<div style="text-align:center;">
+    <img src="reseau.png" alt="reseau_graphe" width="100"/>
+</div>
 ## Linear Models (Continued)
 
 ### Objective 1: Routing Cost
